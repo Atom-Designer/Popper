@@ -1,0 +1,1 @@
+The objective of this project is to develop a program that can detect collisions between objects on a list. The given code uses a technique called “parallel arrays” to hold multiple pieces of information about the same object (a given index is used to access different types of data for the same kernel).
